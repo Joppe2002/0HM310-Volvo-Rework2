@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B736D0-99AE-7946-6F1A-75BC2A25F46C}|Assembly-CSharp.csproj|d:\\users\\neppo\\documents\\societal_factors_game\\simulationv3\\assets\\test\\waypointmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B736D0-99AE-7946-6F1A-75BC2A25F46C}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\waypointmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\assets\\external\\volvocars\\scripts\\runtime\\vehicledynamics\\chassisdynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|solutionrelative:assets\\external\\volvocars\\scripts\\runtime\\vehicledynamics\\chassisdynamics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\assets\\external\\volvocars\\scripts\\runtime\\data\\volvocarspublic\\items\\usersteeringinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|solutionrelative:assets\\external\\volvocars\\scripts\\runtime\\data\\volvocarspublic\\items\\usersteeringinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\assets\\external\\volvocars\\scripts\\runtime\\data\\volvocarspublic\\items\\wheeltorque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}|com.volvocars.public.vehicle_fundamentals.csproj|solutionrelative:assets\\external\\volvocars\\scripts\\runtime\\data\\volvocarspublic\\items\\wheeltorque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\WaypointMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WaypointMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaypointMover.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\Test\\WaypointMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Test\\WaypointMover.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\Test\\WaypointMover.cs",
+              "RelativeToolTip": "Assets\\Test\\WaypointMover.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:55:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaypointMover.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\WaypointMover.cs",
+              "RelativeDocumentMoniker": "Assets\\WaypointMover.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\WaypointMover.cs",
+              "RelativeToolTip": "Assets\\WaypointMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:02:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Waypoints.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\Waypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Waypoints.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\Waypoints.cs",
+              "RelativeToolTip": "Assets\\Waypoints.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:48:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSteeringInput.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\UserSteeringInput.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\UserSteeringInput.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\UserSteeringInput.cs",
+              "RelativeToolTip": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\UserSteeringInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:25:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WheelTorque.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\WheelTorque.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\WheelTorque.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\WheelTorque.cs",
+              "RelativeToolTip": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\Data\\VolvoCarsPublic\\Items\\WheelTorque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:08:57.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChassisDynamics.cs",
+              "DocumentMoniker": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\VehicleDynamics\\ChassisDynamics.cs",
+              "RelativeDocumentMoniker": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\VehicleDynamics\\ChassisDynamics.cs",
+              "ToolTip": "D:\\Users\\neppo\\Documents\\Societal_Factors_Game\\SimulationV3\\Assets\\External\\VolvoCars\\Scripts\\Runtime\\VehicleDynamics\\ChassisDynamics.cs",
+              "RelativeToolTip": "Assets\\External\\VolvoCars\\Scripts\\Runtime\\VehicleDynamics\\ChassisDynamics.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:05:17.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
