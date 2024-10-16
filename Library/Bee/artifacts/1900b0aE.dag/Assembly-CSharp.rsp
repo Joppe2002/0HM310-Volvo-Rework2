@@ -319,7 +319,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.44f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.44f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.44f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
--r:"D:/Users/neppo/Documents/Societal_Factors_Game/SimulationV3/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"D:/Users/neppo/Documents/0HM310-Volvo-Rework2/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.volvocars.public.utility.editor.ref.dll"
@@ -427,6 +427,7 @@
 "Assets/Scripts/Vehicle/WheelColliderPhysicalMaterialResponse.cs"
 "Assets/Scripts/Vehicle/WheelsCollidingPhysicalMaterialsUpdater.cs"
 "Assets/Test/WaypointMover.cs"
+"Assets/Test/WaypointMover_AV.cs"
 "Assets/Test/Waypoints.cs"
 -langversion:9.0
 /deterministic

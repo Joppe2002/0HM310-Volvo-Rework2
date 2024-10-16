@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2B736D0-99AE-7946-6F1A-75BC2A25F46C}</ProjectGuid>
+    <ProjectGuid>{F242AF7B-B25D-A622-FB36-9837DE592D07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -118,6 +118,7 @@
     <Compile Include="Assets\Scripts\PhysicalMaterials\PhysicalProperties\PhysicalInfo.cs" />
     <Compile Include="Assets\Scripts\Terrain\Runtime\Scattering\ExclusionZones\MeshExclusionZoneImpl.cs" />
     <Compile Include="Assets\Test\Waypoints.cs" />
+    <Compile Include="Assets\Test\WaypointMover_AV.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -1152,19 +1153,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.csproj">
-      <Project>{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}</Project>
+      <Project>{4858226A-33EA-5EAD-F788-F4C80A7C1878}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.utility.editor.csproj">
-      <Project>{A0AFA57C-4DFE-E2EC-9326-B1A496414B47}</Project>
+      <Project>{D89584A8-BF92-998F-FE9E-4A07DC2D32E6}</Project>
       <Name>com.volvocars.public.utility.editor</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.editor.csproj">
-      <Project>{0134A920-465A-AB6C-0E44-40D74E31F969}</Project>
+      <Project>{27A40929-C6A0-C23A-890F-60F4301A5F3A}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals.editor</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.utility.csproj">
-      <Project>{9F15F872-4CD1-42F2-B130-D3D966AF6144}</Project>
+      <Project>{956F2349-FD3F-A04A-DC46-9A81565822F8}</Project>
       <Name>com.volvocars.public.utility</Name>
     </ProjectReference>
   </ItemGroup>

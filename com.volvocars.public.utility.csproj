@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9F15F872-4CD1-42F2-B130-D3D966AF6144}</ProjectGuid>
+    <ProjectGuid>{956F2349-FD3F-A04A-DC46-9A81565822F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.volvocars.public.utility</AssemblyName>

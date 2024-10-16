@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0134A920-465A-AB6C-0E44-40D74E31F969}</ProjectGuid>
+    <ProjectGuid>{27A40929-C6A0-C23A-890F-60F4301A5F3A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.volvocars.public.vehicle_fundamentals.editor</AssemblyName>
@@ -967,7 +967,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.csproj">
-      <Project>{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}</Project>
+      <Project>{4858226A-33EA-5EAD-F788-F4C80A7C1878}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals</Name>
     </ProjectReference>
   </ItemGroup>

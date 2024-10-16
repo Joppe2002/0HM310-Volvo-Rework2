@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{43BD6E3D-D3CF-E27C-0C30-9EFBE9981EBF}</ProjectGuid>
+    <ProjectGuid>{4858226A-33EA-5EAD-F788-F4C80A7C1878}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.volvocars.public.vehicle_fundamentals</AssemblyName>
@@ -977,7 +977,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.volvocars.public.utility.csproj">
-      <Project>{9F15F872-4CD1-42F2-B130-D3D966AF6144}</Project>
+      <Project>{956F2349-FD3F-A04A-DC46-9A81565822F8}</Project>
       <Name>com.volvocars.public.utility</Name>
     </ProjectReference>
   </ItemGroup>
