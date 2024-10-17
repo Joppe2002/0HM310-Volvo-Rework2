@@ -9,10 +9,12 @@ public class WaypointMover_AV : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float distanceThreshold = 0.1f;
 
+    // references for lane change on distance
+    [SerializeField] private GameObject otherObject;
+    [SerializeField] public float triggerDistance = 5.0f;
+
     // the current waypoint target that the object is moving towards
     private Transform currentWaypoint;
-
-
 
     // Start is called before the first frame update
     void Start()
@@ -31,11 +33,24 @@ public class WaypointMover_AV : MonoBehaviour
     void Update()
     {
         transform.position = Vector3.MoveTowards(transform.position, currentWaypoint.position, moveSpeed * Time.deltaTime);
+        float distance = Vector3.Distance(transform.position, otherObject.transform.position);
 
         if (Vector3.Distance(transform.position, currentWaypoint.position) < distanceThreshold)
         {
             currentWaypoint = waypoints.GetNextWaypoint(currentWaypoint);
             transform.LookAt(currentWaypoint);
+            
         }
+
+        if (distance <= triggerDistance)
+        {
+            TriggerEvent();
+            return;
+        }
+    }
+
+    void TriggerEvent()
+    {
+        Debug.Log("Distance warning!");
     }
 }
