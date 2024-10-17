@@ -14,10 +14,12 @@ public class WaypointMover : MonoBehaviour
 
 
 
+
     // Start is called before the first frame update
     void Start()
     {
         // set initial position to the first waypoint
+        currentWaypoint = waypoints.GetNextWaypoint(currentWaypoint);
         currentWaypoint = waypoints.GetNextWaypoint(currentWaypoint);
         transform.position = currentWaypoint.position;
 

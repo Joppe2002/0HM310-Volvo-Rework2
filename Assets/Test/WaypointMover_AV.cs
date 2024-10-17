@@ -26,6 +26,7 @@ public class WaypointMover_AV : MonoBehaviour
         transform.LookAt(currentWaypoint);
     }
 
+
     // Update is called once per frame
     void Update()
     {
