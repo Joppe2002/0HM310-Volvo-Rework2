@@ -119,6 +119,8 @@
     <Compile Include="Assets\Scripts\PhysicalMaterials\PhysicalProperties\PhysicalInfo.cs" />
     <Compile Include="Assets\Scripts\Terrain\Runtime\Scattering\ExclusionZones\MeshExclusionZoneImpl.cs" />
     <Compile Include="Assets\Test\Waypoints.cs" />
+    <Compile Include="Assets\Test\distance_log.cs" />
+    <Compile Include="Assets\Test\keypress_log.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

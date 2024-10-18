@@ -426,6 +426,8 @@
 "Assets/Scripts/Vehicle/TireSmokePhysicalMaterialResponse.cs"
 "Assets/Scripts/Vehicle/WheelColliderPhysicalMaterialResponse.cs"
 "Assets/Scripts/Vehicle/WheelsCollidingPhysicalMaterialsUpdater.cs"
+"Assets/Test/distance_log.cs"
+"Assets/Test/keypress_log.cs"
 "Assets/Test/WaypointMover.cs"
 "Assets/Test/WaypointMover_AV.cs"
 "Assets/Test/Waypoints.cs"
