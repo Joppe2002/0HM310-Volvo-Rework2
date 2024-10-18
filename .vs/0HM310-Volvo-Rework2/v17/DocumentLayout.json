@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Users\\neppo\\Documents\\0HM310-Volvo-Rework2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|D:\\Users\\neppo\\Documents\\0HM310-Volvo-Rework2\\assets\\test\\waypointmover_av.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|d:\\users\\neppo\\documents\\0hm310-volvo-rework2\\assets\\test\\waypointmover_av.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\waypointmover_av.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|d:\\users\\neppo\\documents\\0hm310-volvo-rework2\\assets\\test\\waypointmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|D:\\Users\\neppo\\Documents\\0HM310-Volvo-Rework2\\assets\\test\\waypointmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F242AF7B-B25D-A622-FB36-9837DE592D07}|Assembly-CSharp.csproj|solutionrelative:assets\\test\\waypointmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Assets\\Test\\WaypointMover_AV.cs",
               "ToolTip": "D:\\Users\\neppo\\Documents\\0HM310-Volvo-Rework2\\Assets\\Test\\WaypointMover_AV.cs",
               "RelativeToolTip": "Assets\\Test\\WaypointMover_AV.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:01:19.733Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Assets\\Test\\WaypointMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:48:44.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:48:44.628Z"
             },
             {
               "$type": "Document",
