@@ -7,19 +7,19 @@ public class WaypointMover_AV : MonoBehaviour
 {
     // stores reference to the waypoint system this object will use.
     [SerializeField] private Waypoints waypoints;
-    [SerializeField] private float moveSpeed = 5f;
+    private float moveSpeed = 8f;
     [SerializeField] private float distanceThreshold = 0.1f;
 
     // references for lane change on distance
     [SerializeField] private GameObject otherObject;
-    [SerializeField] public float triggerDistance = 15f;
+    [SerializeField] public float triggerDistance = 60f;
     public float distance;
 
     // the current waypoint target that the object is moving towards
     private Transform currentWaypoint;
 
     // variables for lane change
-    [SerializeField] private float offsetValue = 4f;
+    [SerializeField] private float offsetValue = 5f;
     private bool offsetApplied = false;
 
     // variables for exiting lanechange
@@ -54,7 +54,7 @@ public class WaypointMover_AV : MonoBehaviour
             Debug.Log("LaneChange TIME");
             offsetApplied = !offsetApplied;
             lanechange_amount = true;
-            moveSpeed = 10f;
+            moveSpeed = 15f;
             initialPosition = transform.position; // Record the initial position
             measuringDistance = true; // Start measuring distance
             UpdateLookAt();
@@ -71,7 +71,7 @@ public class WaypointMover_AV : MonoBehaviour
             Debug.Log("End LaneChange");
             measuringDistance = false; // Exit the if statement
             offsetApplied = !offsetApplied;
-            moveSpeed = 5f;
+            moveSpeed = 8f;
             UpdateLookAt();
         }
 

@@ -47727,7 +47727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints: {fileID: 458247460}
-  moveSpeed: 5
+  moveSpeed: 8
   distanceThreshold: 0.1
 --- !u!4 &685247575
 Transform:
@@ -57644,7 +57644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2920178591693780604, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: steeringRatio
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4944117196263108041, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_MotionVectors
@@ -57660,15 +57660,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[2].time
-      value: 5.953987
+      value: 3.095955
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[3].time
-      value: 9.460262
+      value: 12.330988
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[4].time
-      value: 10.478351
+      value: 13.020481
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[0].value
@@ -57680,15 +57680,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[2].value
-      value: 1286.5435
+      value: 1342.2412
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[3].value
-      value: 1212.4491
+      value: 1221.6776
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[4].value
-      value: 997.1631
+      value: 0.17416382
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291546, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: availableForwardTorque.m_Curve.Array.data[0].inSlope
@@ -57772,11 +57772,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291547, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -122.54004
+      value: -118.54883
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485333292589291547, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.053646
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291547, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -762.61
+      value: -755.78235
       objectReference: {fileID: 0}
     - target: {fileID: 5485333292589291547, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -57812,15 +57816,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6445022430685655049, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -135.12
+      value: -134.4
       objectReference: {fileID: 0}
     - target: {fileID: 6445022430685655049, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.8592
+      value: 4.11
       objectReference: {fileID: 0}
     - target: {fileID: 6445022430685655049, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -773.63
+      value: -773.15
       objectReference: {fileID: 0}
     - target: {fileID: 6445022430685655049, guid: 47e54eb2f6b9c544baab6f55281f8eb9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -70440,13 +70444,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints: {fileID: 458247460}
-  moveSpeed: 5
   distanceThreshold: 0.1
   otherObject: {fileID: 311538339}
   triggerDistance: 10
   distance: 0
   offsetValue: -4
-  exitDistance: 100
+  exitDistance: 80
 --- !u!43 &1049157468
 Mesh:
   m_ObjectHideFlags: 0
