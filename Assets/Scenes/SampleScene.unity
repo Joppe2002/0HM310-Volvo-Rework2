@@ -70446,9 +70446,9 @@ MonoBehaviour:
   waypoints: {fileID: 458247460}
   distanceThreshold: 0.1
   otherObject: {fileID: 311538339}
-  triggerDistance: 10
+  triggerDistance: 8
   distance: 0
-  offsetValue: -4
+  offsetValue: -4.5
   exitDistance: 80
 --- !u!43 &1049157468
 Mesh:

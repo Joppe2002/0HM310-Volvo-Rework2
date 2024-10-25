@@ -23,7 +23,7 @@ public class distance_log : MonoBehaviour
         }
 
         // Example: Absolute path to a specific directory (change this to your desired path)
-        string customPath = "C:\\Users\\neppo\\OneDrive\\Bureaublad\\";  // On macOS
+        string customPath = "/Users/mikeberben/Documents/SF_Project_datalog";  // On macOS
 
         // Ensure the directory exists (create it if it doesn't)
         if (!Directory.Exists(customPath))

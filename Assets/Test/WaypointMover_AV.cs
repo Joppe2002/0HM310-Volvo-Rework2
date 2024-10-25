@@ -12,7 +12,7 @@ public class WaypointMover_AV : MonoBehaviour
 
     // references for lane change on distance
     [SerializeField] private GameObject otherObject;
-    [SerializeField] public float triggerDistance = 60f;
+    [SerializeField] private float triggerDistance = 60f;
     public float distance;
 
     // the current waypoint target that the object is moving towards
@@ -71,7 +71,7 @@ public class WaypointMover_AV : MonoBehaviour
             Debug.Log("End LaneChange");
             measuringDistance = false; // Exit the if statement
             offsetApplied = !offsetApplied;
-            moveSpeed = 8f;
+            moveSpeed = 12f;
             UpdateLookAt();
         }
 
